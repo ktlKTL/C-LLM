@@ -1,0 +1,10 @@
+accelerate==0.27.2
+Levenshtein==0.20.5
+ltp==4.2.13
+numpy==1.22.4
+peft==0.7.1
+pypinyin==0.43.0
+tiktoken==0.6.0
+torch==2.2.1
+transformers==4.41.2
+xformers==0.0.25
