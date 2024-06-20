@@ -45,7 +45,7 @@ After fine-tuning, run [test.sh](https://github.com/ktlKTL/C-LLM/blob/main/test.
 `bash test.sh`
 
 ## Evaluation
-Two methods for handling unequal length sentences were designed: one based on [CheRRANT](https://github.com/HillZhang1999/MuCGEC/tree/main/scorers/ChERRANT) and the other on [difflib](https://github.com/python/cpython/blob/main/Lib/difflib.py). In this paper, we adopted the Cherrant-based method. For evaluation, CheRRANT must first be downloaded to the specified directory.
+Two methods for handling unequal length sentences were designed: one based on [CheRRANT](https://github.com/HillZhang1999/MuCGEC/tree/main/scorers/ChERRANT) and the other on [difflib](https://github.com/python/cpython/blob/main/Lib/difflib.py). In this paper, we adopted the CheRRANT-based method. For evaluation, CheRRANT must first be downloaded to the specified directory.
 
 Run [evaluate_result.py](https://github.com/ktlKTL/C-LLM/blob/main/evaluate_result.py) for evaluation:
 
