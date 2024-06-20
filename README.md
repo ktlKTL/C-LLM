@@ -14,8 +14,8 @@ This is the source code for the paper "C-LLM: Learn to Check Chinese Spelling Er
 
 * Data for Supervised Fine-tuning (see /dataset/train_date/): 
     
-    * Train: [Wang271K](https://github.com/wdimmy/Automatic-Corpus-Generation), [CSCD-NS](https://github.com/nghuyong/cscd-ns/tree/master)
-    * Dev: CSCD-NS
+    * Train: [Wang271K](https://github.com/wdimmy/Automatic-Corpus-Generation), [CSCD-NS](https://github.com/nghuyong/cscd-ns/tree/master) (train)
+    * Dev: CSCD-NS (dev)
 
 ### Test
 See /dataset/test_date/:
