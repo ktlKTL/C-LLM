@@ -1,5 +1,5 @@
 # C-LLM
-This is the source code for the paper "C-LLM: Learn to Check Chinese Spelling Errors Character by Character" （https://arxiv.org/pdf/2406.16536）
+This is the source code for the paper "C-LLM: Learn to Check Chinese Spelling Errors Character by Character" （https://arxiv.org/pdf/2406.16536 ）
 ![](paper.png)
 
 # Environment
@@ -53,4 +53,4 @@ Run [evaluate_result.py](https://github.com/ktlKTL/C-LLM/blob/main/evaluate_resu
 
 The script for calculating metrics is adapted from [CSCD-NS](https://github.com/nghuyong/cscd-ns/blob/master/evaluation/evaluate.py).
 ## Citation
-If you find this work is useful for your research, please cite the following paper: C-LLM: Learn to Check Chinese Spelling Errors Character by Character （https://arxiv.org/pdf/2406.16536）
+If you find this work is useful for your research, please cite the following paper: C-LLM: Learn to Check Chinese Spelling Errors Character by Character （https://arxiv.org/pdf/2406.16536 ）
