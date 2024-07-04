@@ -1,6 +1,6 @@
 accelerate==0.23.0
 Levenshtein==0.20.9
-xformers==0.0.21
+xformers==0.0.23.post1
 ltp==4.2.13
 numpy==1.23.0
 peft==0.11.1
