@@ -57,4 +57,4 @@ torchrun --nproc_per_node=8 --master_port $MASTER_PORT train_new.py \
     --run_name $RUN_NAME \
     --ft_type $FT_TYPE \
     --seed 3407 \
-    --deepspeed $BASE_DIR/models/common/ds_config/zero_1.json
+    --deepspeed $BASE_DIR/common/ds_config/zero_1.json
