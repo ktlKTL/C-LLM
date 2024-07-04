@@ -9,3 +9,4 @@ torch==2.2.1
 transformers==4.37.2
 xformers==0.0.25
 trl==0.7.4
+deepspeed==0.10.3
