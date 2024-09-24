@@ -1,6 +1,6 @@
 # C-LLM
 This is the source code for the paper "C-LLM: Learn to Check Chinese Spelling Errors Character by Character" （https://arxiv.org/pdf/2406.16536 ）
-![](paper.png)
+![](paper.jpg)
 
 # Environment
 * Python: 3.8
