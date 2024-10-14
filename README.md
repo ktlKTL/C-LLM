@@ -2,7 +2,7 @@
 This is the source code for the paper "C-LLM: Learn to Check Chinese Spelling Errors Character by Character" （https://arxiv.org/pdf/2406.16536 ）
 ![](paper.jpg)
 
-[2024.9.20] Our paper is accepted by EMNLP2024 Main!
+**[2024.9.20] Our paper is accepted by EMNLP2024 Main!**
 
 # Environment
 * Python: 3.8
