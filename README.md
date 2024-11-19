@@ -57,10 +57,11 @@ The script for calculating metrics is adapted from [CSCD-NS](https://github.com/
 ## Citation
 If you find this work is useful for your research, please cite the following paper: C-LLM: Learn to Check Chinese Spelling Errors Character by Character （https://arxiv.org/pdf/2406.16536 ）
 ```
-@article{li2024c,
+@inproceedings{li2024c,
   title={C-LLM: Learn to Check Chinese Spelling Errors Character by Character},
   author={Li, Kunting and Hu, Yong and He, Liang and Meng, Fandong and Zhou, Jie},
-  journal={arXiv preprint arXiv:2406.16536},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={5944--5957},
   year={2024}
 }
 ```
